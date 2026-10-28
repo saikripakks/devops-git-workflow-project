@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Project status: testing
+=======
+Project status: development
+>>>>>>> feature/conflict-practice
